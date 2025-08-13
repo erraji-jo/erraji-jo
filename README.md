@@ -16,14 +16,20 @@
 ---
 ### 🔥 Tech Stack  
 
- * Pyhthon
+ * Python
+ * LLM, LangChain, LangGraph
+ * Vector Database (Pinecone, Weviate, Chroma)
+ * RAG
+ * OpenAI API, Gemini API, Anthropic API, Perplexity API, Azure OpenAI API
+ * Automation (n8n, make.com, zapier)
  * TypeScript
  * JavaScript
- * SQL
- * LangChain
- * Vector Database (Pinecone, Weviate, )
+ * Next.js
+ * Node.js
+ * DevOps
+ * PosgresSQL & NoSQL
  * Git and GitHub
- * Docker
+ * Kubernates & Docker
 
 ---
 <div align="center">
