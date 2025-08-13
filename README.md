@@ -12,7 +12,7 @@
 
 ## 🔥 Tech Stack  
 
-### * Python, LLM, RAG, LangChain, LangGraph, Vector Database (Pinecone, Weviate, Chroma)
+### * Python, LLM, RAG, LangChain, LangGraph, Vector Database (Pinecone, Weaviate, Qdrant, Chroma)
 ### * ChatGPT, OpenAI API, Gemini API, Anthropic API, Perplexity API, Azure OpenAI API
 ### * Automation (n8n, make.com, zapier)
 ### * TypeScript, JavaScript, Next.js, Node.js, Supabase
