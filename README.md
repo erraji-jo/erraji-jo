@@ -1,5 +1,15 @@
- # Hi, A Unique AI Engineer, here 👋
- ---
+ # Hi, a UNIQUE AI Engineer, here 👋
+ 
+ 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ajA0cXI4bmJkZHc5aW5iYWQyMmJncHV4OHR4dTZldzNoajdnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="100"/>
+</div>
+
+
+[![erraji-jo Banner](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+erraji-jo!;🚀+Welcome+to+My+GitHub+Profile!;🔥+Constantly+expanding+my+skill+set;Staying+up+to+date+with+the+latest+trends&center=true&width=1000&size=30&duration=3000&pause=1000)](https://git.io/typing-svg)
+
+---
+
 ### 🔥 Tech Stack  
 
  * Python
@@ -17,15 +27,9 @@
  * PosgresSQL & NoSQL
  * Git and GitHub
  * Kubernates & Docker
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3N1ajA0cXI4bmJkZHc5aW5iYWQyMmJncHV4OHR4dTZldzNoajdnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="100"/>
-</div>
 
-##
+ ##
 ![JU-NINE GitHub Stats](https://github-readme-stats.vercel.app/api?username=erraji-jo&show_icons=true&theme=dark)
-
-
-[![erraji-jo Banner](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+erraji-jo!;🚀+Welcome+to+My+GitHub+Profile!;🔥+Constantly+expanding+my+skill+set;Staying+up+to+date+with+the+latest+trends&center=true&width=1000&size=30&duration=3000&pause=1000)](https://git.io/typing-svg)
 
 ## 🌟 Profile Views  
 
