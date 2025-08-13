@@ -26,6 +26,7 @@
  * JavaScript
  * Next.js
  * Node.js
+ * Supabase
  * DevOps
  * PosgresSQL & NoSQL
  * Git and GitHub
