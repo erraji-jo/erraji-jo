@@ -14,7 +14,7 @@
 
 ### * Python, LLM, RAG, LangChain, LangGraph, Vector Database (Pinecone, Weaviate, Qdrant, Chroma)
 ### * ChatGPT, OpenAI API, Gemini API, Anthropic API, Perplexity API, Azure OpenAI API
-### * Automation (n8n, make.com, zapier)
+### * Automation (n8n, make.com, zapier, mindcloud)
 ### * TypeScript, JavaScript, Next.js, Node.js, Supabase
 ### * DevOps, Kubernates & Docker, CI/CD, Git, Github Actions
 ### * PosgresSQL, MySQL & NoSQL (MongoDB)
