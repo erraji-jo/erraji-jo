@@ -10,23 +10,14 @@
 
 ---
 
-### 🔥 Tech Stack  
+## 🔥 Tech Stack  
 
- * Python
- * LLM, LangChain, LangGraph
- * Vector Database (Pinecone, Weviate, Chroma)
- * RAG
- * OpenAI API, Gemini API, Anthropic API, Perplexity API, Azure OpenAI API
- * Automation (n8n, make.com, zapier)
- * TypeScript
- * JavaScript
- * Next.js
- * Node.js
- * Supabase
- * DevOps
- * PosgresSQL & NoSQL
- * Git and GitHub
- * Kubernates & Docker
+### * Python, LLM, RAG, LangChain, LangGraph, Vector Database (Pinecone, Weviate, Chroma)
+### * ChatGPT, OpenAI API, Gemini API, Anthropic API, Perplexity API, Azure OpenAI API
+### * Automation (n8n, make.com, zapier)
+### * TypeScript, JavaScript, Next.js, Node.js, Supabase
+### * DevOps, Kubernates & Docker, CI/CD, Git, Github Actions
+### * PosgresSQL, MySQL & NoSQL (MongoDB)
 
  ##
 ![JU-NINE GitHub Stats](https://github-readme-stats.vercel.app/api?username=erraji-jo&show_icons=true&theme=dark)
