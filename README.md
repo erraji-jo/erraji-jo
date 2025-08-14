@@ -13,10 +13,10 @@
 ## 🔥 Tech Stack  
 
 ### * Python, LLM, RAG, LangChain, LangGraph, Vector Database (Pinecone, Weaviate, Qdrant, Chroma)
-### * ChatGPT, OpenAI API, Gemini API, Anthropic API, Perplexity API, Azure OpenAI API
+### * ChatGPT, OpenAI API, Gemini API, Claude, Azure OpenAI API
 ### * Automation (n8n, make.com, zapier, mindcloud)
 ### * TypeScript, JavaScript, Next.js, Node.js, Supabase
-### * DevOps, Kubernates & Docker, CI/CD, Git, Github Actions
+### * DevOps, Kubernates & Docker, CI/CD, Git, Github Actions, AWS, GCP
 ### * PosgresSQL, MySQL & NoSQL (MongoDB)
 
  ##
@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <a href="mailto:erraji-jo@gmail.com" target="_blank">
+  <a href="mailto:joseferraji0227@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=erraji-jo&color=D14840&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
