@@ -15,7 +15,7 @@
 ### * Python, LLM, RAG, LangChain, LangGraph, Vector Database (Pinecone, Weaviate, Qdrant, Chroma)
 ### * ChatGPT, OpenAI API, Gemini API, Claude, Azure OpenAI API
 ### * Automation (n8n, make.com, zapier, mindcloud)
-### * TypeScript, JavaScript, Next.js, Node.js, Supabase
+### * TypeScript, JavaScript, Next.js, Node.js, Nest.js, Supabase, FastAPI
 ### * DevOps, Kubernates & Docker, CI/CD, Git, Github Actions, AWS, GCP
 ### * PosgresSQL, MySQL & NoSQL (MongoDB)
 
