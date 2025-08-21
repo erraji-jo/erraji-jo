@@ -1,4 +1,4 @@
- # Hi, a UNIQUE AI Engineer, here 👋
+ # Hi, I'm Josef, a UNIQUE AI Engineer, here 👋
  
  
 <div id="header" align="center">
