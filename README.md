@@ -1,4 +1,4 @@
- # Hi, I'm Josef, a UNIQUE AI Engineer, here 👋
+ # Hi, I'm Josef, a UNIQUE AI Engineer 👋
  
  
 <div id="header" align="center">
@@ -22,7 +22,6 @@
  ##
 ![JU-NINE GitHub Stats](https://github-readme-stats.vercel.app/api?username=erraji-jo&show_icons=true&theme=dark)
 
-## 🌟 Profile Views  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=erraji-jo&color=blue)  
 
